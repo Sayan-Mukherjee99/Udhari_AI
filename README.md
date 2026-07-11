@@ -1,11 +1,25 @@
+# Udhari Mobile Application
 
-  # Udhari mobile application
+A modern mobile application built with TypeScript and React. This repository contains the complete codebase for the Udhari mobile application, with design specifications available on Figma.
 
-  This is a code bundle for Udhari mobile application. The original project is available at https://www.figma.com/design/XGLXm1rAvZB89oRUdPZ4nD/Udhari-mobile-application.
+## 📋 Project Overview
 
-  ## Running the code
+Udhari is a mobile-first application designed to provide users with an intuitive and seamless experience. The project is fully designed and documented in Figma at: https://www.figma.com/design/XGLXm1rAvZB89oRUdPZ4nD/Udhari-mobile-application
 
-  Run `npm i` to install the dependencies.
+### Tech Stack
 
-  Run `npm run dev` to start the development server.
-  
+- **Frontend**: TypeScript (93.7%)
+- **Styling**: CSS (5%)
+- **Other**: 1.3%
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js (v14 or higher)
+- npm or yarn
+
+### Installation
+
+1. Clone the repository:
+```bash
